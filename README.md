@@ -11,8 +11,9 @@ It was implemented two apis:
 
 ## Important highlight
 
-It was created a server that returns the module size! The minified and gzip size, it was not implemented.
-It was added a random number related to that two itens and the implementation of this two points it was not finished. I spent a more time to expected to understand how I can extract those information and then I realized that it was necessary execute the webpack application to obtain those values.
+It was created a server that returns the module size! The minified and gzip size, it was not implemented. <br>
+It was added a random number related to that two itens and the implementation of this two points it was not finished.<br>
+I spent a more time to expected to understand how I can extract those information and then I realized that it was necessary execute the webpack application to obtain those values.
 
 
 ## Instructions
