@@ -9,11 +9,13 @@ It was implemented two apis:
 /size - collect information related to the module size, minifiy and gzip information.
 ```
 
+
 ## Important highlight
 
 It was created a server that returns the module size! The minified and gzip size, it was not implemented. <br>
 It was added a random number related to that two itens and the implementation of this two points it was not finished.<br>
-I spent a more time to expected to understand how I can extract those information and then I realized that it was necessary execute the webpack application to obtain those values.
+I spent more time to expected to understand how I can extract those information and then I realize that it was necessary execute the webpack application to obtain those values. I implemented the minify.js file, but I didn't add in the APi created.
+
 
 
 ## Instructions
@@ -26,3 +28,7 @@ yarn or npm install
 
 Runs the server in the development mode.<br />
 The server will be enable in the following address [http://localhost:7001](http://localhost:7001).
+
+
+### Contact
+email: rafaeltomesouza@gmail.com
