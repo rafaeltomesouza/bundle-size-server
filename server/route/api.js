@@ -5,6 +5,6 @@ const MainController = require('../controller/MainController');
 
 router.get('/install', MainController.install);
 router.get('/size', MainController.size);
-router.get('/minify', MainController.minify);
+//router.get('/minify', MainController.minify);
 
 module.exports = router;
